@@ -1,6 +1,8 @@
 tar-files
 ---------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/tar-files.svg)](https://greenkeeper.io/)
+
 convenience wrapper around fs gunzip and node-tar to stream file entries' data.
 
 ```js
