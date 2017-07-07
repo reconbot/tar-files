@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "end-of-stream": "^1.1.0",
-    "gunzip-maybe": "^1.2.1",
+    "gunzip-maybe": "^1.4.1",
     "once": "^1.3.2",
     "tar": "^2.2.0"
   },
